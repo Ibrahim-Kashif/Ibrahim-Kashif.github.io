@@ -693,7 +693,7 @@
     <!-- Header -->
     <header id="main-header">
         <div class="container">
-            <a href="#" id="logo">Your Name<span>.</span></a>
+            <a href="#" id="logo">Ibrahim Kashif<span>.</span></a>
             <div id="main-nav">
                 <nav>
                     <a href="#about">About</a>
