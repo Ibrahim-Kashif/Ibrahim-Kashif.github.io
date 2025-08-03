@@ -1,11 +1,9 @@
-# Ibrahim-Kashif.github.io
-
 <!DOCTYPE html>
 <html lang="en" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name | Data Scientist Portfolio</title>
+    <title>Ibrahim Kashif | Data Scientist Portfolio</title>
     
     <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
