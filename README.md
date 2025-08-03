@@ -59,7 +59,6 @@
         /* Utility Classes */
         .container {
             width: 100%;
-            max-width: 1100px;
             margin-left: auto;
             margin-right: auto;
             padding-left: 1.5rem;
